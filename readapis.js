@@ -25,4 +25,15 @@ nus = nam(
 wiget = prn.data.read(psr,chk,null);
 app.title(nus);
 app.widget(wiget);
-git.read("https://github.com/awwsssssssss/api.js")
+app.setdisplay(#320X349#);
+app.file("neon.js");
+app.code(
+awaic (titlemode, "1"),
+  ("python":{
+   data = close,nil
+   def corupt :
+   no
+   }),
+);
+app.closecode();
+git.read("https://github.com/awwsssssssss/api.js");
