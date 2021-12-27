@@ -1,3 +1,4 @@
+//Lets inc <https:// / File>; sys.h and nes.h is sys awatic gais
 inc <api.json = parse>
 inc <sys.h>;
 inc <nes.h>;
