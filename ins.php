@@ -1,4 +1,4 @@
 <?php
-include "readapi.js";
-echo app.read(readapi.js);
+include "readapis.js";
+echo app.read(readapis.js);
 ?>
